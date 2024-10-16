@@ -1,0 +1,38 @@
+<rss xmlns:media='http://search.yahoo.com/mrss/' xmlns:atom='http://www.w3.org/2005/Atom'
+    xmlns:dcterms='http://purl.org/dc/terms/' version='2.0'>
+    <channel>
+        <title>
+    <![CDATA[ The Florida Channel - Live 24/7 ]]>
+    </title>
+        <description>
+    <![CDATA[ The Florida Channel ]]>
+    </description>
+        <link>https://thefloridachannel.org</link>
+        <item>
+            <title>
+    <![CDATA[ Florida Channel Programming, TBD ]]>
+    </title>
+            <description>Florida Channel Programming, TBD</description>
+            <pubDate>Wed, 16 Oct 2024 09:55:00 -0400</pubDate>
+            <media:thumbnail
+                url='https://thefloridachannel.org/wp-content/uploads/tv-24-7-thumbnail-800-450.png' />
+            <media:content
+                url='https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/format/applehttp/protocol/https/a.m3u8' />
+            <media:subTitle trackID='EIA608/1' trackDescription='English' trackLanguage='en' />
+            <media:playStart>7200</media:playStart>
+        </item>
+        <item>
+            <title>
+    <![CDATA[ The Capitol Cam ]]>
+    </title>
+            <description />
+            <pubDate>Wed, 16 Oct 2024 14:35:08 -0400</pubDate>
+            <media:thumbnail
+                url='https://thefloridachannel.org/wp-content/uploads/capitol-cam-thumbnail.png' />
+            <media:content
+                url='https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_sup8akpk/format/applehttp/protocol/https' />
+            <media:subTitle trackID='EIA608/1' trackDescription='English' trackLanguage='en' />
+            <media:playStart>7200</media:playStart>
+        </item>
+    </channel>
+</rss>

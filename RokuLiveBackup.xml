@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+  <!-- resultLength indicates the total number of results for this feed -->
+  <resultLength>1</resultLength>
+  <!-- endIndex indicates the number of results for this *paged* section of the feed -->
+  <endIndex>1</endIndex>
+
+  <item sdImg="https://thefloridachannel.org/wp-content/uploads/capitol-cam-thumbnail.png" hdImg="https://thefloridachannel.org/wp-content/uploads/capitol-cam-thumbnail.png">
+    <title>
+      <![CDATA[The Capitol Cam]]>
+    </title>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>HLS</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>1500</streamBitrate>
+      <streamUrl>https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_sup8akpk/format/applehttp/protocol/https</streamUrl>
+      <synopsis>Live Events, News or Original Programming</synopsis>
+      <genres></genres>
+      <runtime></runtime>
+    </media>
+  </item>
+
+    <item sdImg="https://thefloridachannel.org/wp-content/uploads/tv-24-7-thumbnail-800-450.png" hdImg="https://thefloridachannel.org/wp-content/uploads/tv-24-7-thumbnail-800-450.png">
+    <title>
+      <![CDATA[Florida Channel Programming, TBD]]>
+    </title>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <streamFormat>HLS</streamFormat>
+    <media>
+      <streamQuality>HD</streamQuality>
+      <streamBitrate>1500</streamBitrate>
+      <streamUrl>https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/format/applehttp/protocol/https/a.m3u8</streamUrl>
+      <synopsis>Live Events, News or Original Programming</synopsis>
+      <genres></genres>
+      <runtime></runtime>
+    </media>
+  </item>
+  </feed>
